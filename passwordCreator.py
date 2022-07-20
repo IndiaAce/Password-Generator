@@ -1,4 +1,4 @@
-#This program generates a random password of the length specified by the user.
+#This program generates a random password of the length specified by the user & saves it to a folder.
 
 import random
 
